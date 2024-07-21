@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me here
-- 😄 Pronouns: faraa
 - ⚡ Fun fact: i love coding
 
 <!---
